@@ -1,0 +1,806 @@
+# Copyright (C) 2016 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elif lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-14 23:23+0100\n"
+"PO-Revision-Date: 2016-10-15 22:10+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عفوا! تلك الصفحة لا يمكن العثور عليه."
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "هذه المقالة محمية بكلمة مرور. أدخل كلمة المرور لمشاهدة التعليقات."
+
+#: comments.php:28
+msgid "No Comments"
+msgstr "بدون تعليقات"
+
+#: comments.php:28
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#: comments.php:28
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr "اترك رد"
+
+#: comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "اترك ردا لـ  %s"
+
+#: comments.php:59
+msgid "Add Comment"
+msgstr "أضف تعليق"
+
+#: comments.php:63
+msgid "Name"
+msgstr "الاسم"
+
+#: comments.php:64
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: comments.php:65
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#: functions.php:28
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: functions.php:29
+msgid "Mobile Menu"
+msgstr "قائمة الجوال"
+
+#: functions.php:87
+msgid "Main Sidebar"
+msgstr "الشريط الجانبي الأساسي"
+
+#: functions.php:89
+msgid "Main Sidebar widget area."
+msgstr "منطقة الويدجت للشريط الجانبي"
+
+#: functions.php:243
+msgid "Previous Post"
+msgstr "المقال السابق"
+
+#: functions.php:251
+msgid "Next Post"
+msgstr "المقالة التالية"
+
+#: functions.php:307
+msgid "You may also like"
+msgstr "ربما يعجبك أيضا"
+
+#: functions.php:362 functions.php:400
+msgid "Author"
+msgstr "الكاتب"
+
+#: functions.php:373
+msgid "View Posts"
+msgstr "عرض المقالات"
+
+#: functions.php:393
+msgid "(Edit)"
+msgstr "(تعديل)"
+
+#: functions.php:404
+msgid "Said:"
+msgstr "قال"
+
+#: functions.php:405
+msgid "Reply"
+msgstr "رد"
+
+#: functions.php:409
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر موافقة احد المدراء ."
+
+#: header.php:60
+msgid "Menu"
+msgstr "القائمة"
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن : %s"
+
+#: searchform.php:9
+msgid "Search for"
+msgstr "البحث عن"
+
+#: searchform.php:10
+msgid "Search &#8230;"
+msgstr "بحث &#8230;"
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: functions/commons.php:17
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: functions/commons.php:178
+msgid "Older Posts"
+msgstr "مقالات قديمة"
+
+#: functions/commons.php:181
+msgid "Newer Posts"
+msgstr "مقالات جديدة"
+
+#: functions/commons.php:188
+msgid "&#8249; Previous"
+msgstr ""
+
+#: functions/commons.php:189
+msgid "Next &#8250;"
+msgstr ""
+
+#: functions/commons.php:211 functions/commons.php:230
+msgid "Add Menu"
+msgstr ""
+
+#: functions/commons.php:213 functions/commons.php:232
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr "انتقل إلى مظهر => القوائم وتعيين قائمة إلى هذا الموقع."
+
+#: functions/defaults.php:37
+msgid "Read More"
+msgstr "‫اقرأ المزيد"
+
+#: functions/defaults.php:70
+msgid ""
+"Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+msgstr ""
+
+#: functions/defaults.php:71
+msgid "Designed by <a href=\"http://themient.com\">Themient</a>"
+msgstr ""
+
+#: functions/widget-popularposts.php:15
+msgid "Themient: Popular Posts"
+msgstr ""
+
+#: functions/widget-popularposts.php:16
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: functions/widget-popularposts.php:28
+msgid "Popular Posts"
+msgstr "المواضيع الأكثر قرأءة"
+
+#: functions/widget-popularposts.php:36 functions/widget-recentposts.php:34
+#: functions/widget-socialicons.php:267
+msgid "Title:"
+msgstr "العنوان‪:"
+
+#: functions/widget-popularposts.php:41
+msgid "Popularity limit (days), 0 for No-limit"
+msgstr ""
+
+#: functions/widget-popularposts.php:47 functions/widget-recentposts.php:39
+msgid "Number of Posts to show"
+msgstr ""
+
+#: functions/widget-popularposts.php:54 functions/widget-recentposts.php:46
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-popularposts.php:61 functions/widget-recentposts.php:53
+msgid "Show post date"
+msgstr "﻿عرض تاريخ المقالة"
+
+#: functions/widget-popularposts.php:68 functions/widget-recentposts.php:60
+msgid "Show comments number"
+msgstr ""
+
+#: functions/widget-recentposts.php:15
+msgid "Themient: Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:16
+msgid "Display the most recent posts from all categories."
+msgstr ""
+
+#: functions/widget-recentposts.php:27 functions/widget-recentposts.php:87
+msgid "Recent Posts"
+msgstr "اخر المقالات"
+
+#: functions/widget-socialicons.php:73
+msgid "Facebook URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:77
+msgid "Twitter URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:81
+msgid "Google+ URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:85
+msgid "YouTube URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:89
+msgid "RSS URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:93
+msgid "Pinterest URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:97
+msgid "Linkedin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:101
+msgid "Email URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:105
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:109
+msgid "Reddit URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:113
+msgid "Tumblr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:117
+msgid "Instagram URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:121
+msgid "Vimeo URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:125
+msgid "FourSquare URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:129
+msgid "Soundcloud URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:133
+msgid "GitHub URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:137
+msgid "Flickr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:141
+msgid "Skype URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:146
+msgid "Behance URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:150
+msgid "Dribbble URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:154
+msgid "Dropbox URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:158
+msgid "Amazon URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:162
+msgid "Apple URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:166
+msgid "Snapchat URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:170
+msgid "Bitbucket URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:174
+msgid "Stack Overflow URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:178
+msgid "Stack Exchange URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:182
+msgid "Slack URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:186
+msgid "CodePen URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:190
+msgid "Digg URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:194
+msgid "Deviantart URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:198
+msgid "PayPal URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:202
+msgid "Bitcoin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:206
+msgid "Odnoklassniki URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:210
+msgid "Vk URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:214
+msgid "Whatsapp URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:218
+msgid "Weixin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:222
+msgid "Vine URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:226
+msgid "Weibo URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:230
+msgid "Yelp URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:234
+msgid "lastFM URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:238
+msgid "Steam URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:242
+msgid "Twitch URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:249
+msgid "Show social icons."
+msgstr ""
+
+#: functions/widget-socialicons.php:257
+msgid "Themient: Social Icons"
+msgstr ""
+
+#: functions/widget-socialicons.php:269
+msgid "Open links in a new tab?"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:79
+msgid "Show"
+msgstr "عرض"
+
+#: inc/customizer/customizer-controls.php:80
+msgid "Hide"
+msgstr "اخفاء"
+
+#: inc/customizer/customizer.php:25
+msgid "Header"
+msgstr "الهيدر"
+
+#: inc/customizer/customizer.php:28
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Retina Logo ( 2x bigger )"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "This logo should be 2X bigger than the default logo."
+msgstr ""
+
+#: inc/customizer/customizer.php:34
+msgid "Logo Width"
+msgstr "عرض الشعار"
+
+#: inc/customizer/customizer.php:34
+msgid "Set logo image maximum width (in Pixels)."
+msgstr ""
+
+#: inc/customizer/customizer.php:37
+msgid "Show Site Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Header Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:46
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Header background overlay, from 0 to 100."
+msgstr ""
+
+#: inc/customizer/customizer.php:52 inc/customizer/customizer.php:247
+msgid "Advanced Background Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:55 inc/customizer/customizer.php:250
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:68 inc/customizer/customizer.php:263
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:69 inc/customizer/customizer.php:264
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/customizer.php:70 inc/customizer/customizer.php:265
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer.php:71 inc/customizer/customizer.php:266
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer.php:72 inc/customizer/customizer.php:267
+msgid "Set this option to \"Cover\" to enable background Parallax effect."
+msgstr ""
+
+#: inc/customizer/customizer.php:75 inc/customizer/customizer.php:270
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:80 inc/customizer/customizer.php:275
+msgid "Specifies if/how a background image will be repeated."
+msgstr ""
+
+#: inc/customizer/customizer.php:83 inc/customizer/customizer.php:278
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer.php:84 inc/customizer/customizer.php:279
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:85 inc/customizer/customizer.php:280
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer.php:86 inc/customizer/customizer.php:281
+msgid "Local"
+msgstr ""
+
+#: inc/customizer/customizer.php:87 inc/customizer/customizer.php:282
+msgid ""
+"Specifies whether the background images are fixed or scrolls with the rest "
+"of the page."
+msgstr ""
+
+#: inc/customizer/customizer.php:90
+msgid "Off-canvas Menu Side"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer.php:92
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/customizer.php:96
+msgid "Off-canvas Menu Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Overlay"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "Push"
+msgstr ""
+
+#: inc/customizer/customizer.php:103
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid ""
+"Set excerpt length (in Words) for Homepage & archive pages. Min is 1 word, "
+"max is 500 words."
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "Excerpt Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:113
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:114
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:115
+msgid ""
+"If you select \"Excerpt\", text formatting, images and shortcodes will be "
+"filtered from your content."
+msgstr ""
+
+#: inc/customizer/customizer.php:118
+msgid "ReadMore Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Navigation Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:122 inc/customizer/customizer.php:165
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/customizer.php:123
+msgid "Numbered"
+msgstr ""
+
+#: inc/customizer/customizer.php:127
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:130
+msgid "Next/Prev Links"
+msgstr "رابط المقال السابق / اللاحق"
+
+#: inc/customizer/customizer.php:130
+msgid "Show or hide next post and previous post links on single post page."
+msgstr ""
+
+#: inc/customizer/customizer.php:133
+msgid "Related Posts"
+msgstr "أخبار ذات صلة"
+
+#: inc/customizer/customizer.php:133
+msgid "Show or hide related posts on single post page."
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Related Posts Number"
+msgstr ""
+
+#: inc/customizer/customizer.php:139
+msgid "Related Posts Query"
+msgstr ""
+
+#: inc/customizer/customizer.php:140
+msgid "By Tags"
+msgstr "حسب الكلمات الدلالية"
+
+#: inc/customizer/customizer.php:141
+msgid "By Categories"
+msgstr "حسب الفئات"
+
+#: inc/customizer/customizer.php:142
+msgid "Query related posts either by tags or categories."
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "Related Posts Meta"
+msgstr "المقالات المشابهة (ميتا)"
+
+#: inc/customizer/customizer.php:148
+msgid "Related Posts Excerpt"
+msgstr "المقالات المشابهة (مقتطفات)"
+
+#: inc/customizer/customizer.php:151
+msgid "Author Box"
+msgstr "صندوق الكاتب"
+
+#: inc/customizer/customizer.php:154
+msgid "Design & Layout"
+msgstr "تعريف وتخطيط"
+
+#: inc/customizer/customizer.php:157
+msgid "Theme Color"
+msgstr "لون القالب"
+
+#: inc/customizer/customizer.php:160
+msgid "Theme Color (Mouseover)"
+msgstr ""
+
+#: inc/customizer/customizer.php:163
+msgid "Theme Layout"
+msgstr "تعريف وتخطيط القالب"
+
+#: inc/customizer/customizer.php:164
+msgid "Default"
+msgstr "الافتراضي"
+
+#: inc/customizer/customizer.php:169
+msgid "Sidebar Layout"
+msgstr "تخطيط الشريط الجانبي"
+
+#: inc/customizer/customizer.php:176
+msgid "Box Border Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+msgid "Solid"
+msgstr "صلب"
+
+#: inc/customizer/customizer.php:178
+msgid "Shadow"
+msgstr "الظل"
+
+#: inc/customizer/customizer.php:179
+msgid "None"
+msgstr "لا شيء"
+
+#: inc/customizer/customizer.php:183
+msgid "Animation Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Enabled"
+msgstr "مفعل"
+
+#: inc/customizer/customizer.php:185
+msgid "Disable on mobiles"
+msgstr "تعطيل على الهواتف النقالة"
+
+#: inc/customizer/customizer.php:186
+msgid "Disabled"
+msgstr "غير متاح"
+
+#: inc/customizer/customizer.php:190
+msgid "Background Type"
+msgstr "نوع الخلفية"
+
+#: inc/customizer/customizer.php:191
+msgid "Solid Color"
+msgstr "لون"
+
+#: inc/customizer/customizer.php:192
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer/customizer.php:193
+msgid "Custom Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:197
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:200
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer/customizer.php:244
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:285
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:288
+msgid "Footer"
+msgstr "الفوتر"
+
+#: inc/customizer/customizer.php:291
+msgid "Social Links"
+msgstr "روابط مواقع تواصل الاجتماعيه"
+
+#: inc/customizer/customizer.php:291
+msgid "Show or hide social links in footer."
+msgstr "إظهار روابط مواقع تواصل الاجتماعيه"
+
+#: inc/customizer/customizer.php:294
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:300
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:303
+msgid "Footer Logo"
+msgstr "شعار الفوتر"
+
+#: inc/customizer/customizer.php:306
+msgid "Copyright Text"
+msgstr "نص حقوق التأليف والنشر"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على أي شيء"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "مستعد لنشر اول اعلان لك؟ <a href=“%1$s”>ابدأ من هنا</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"عذراً، لم يتم العثور على نتائج للبحث الذي أجريته. يرجى المحاولة مرة أخرى مع "
+"استخدام كلمات مختلفة."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أننا لا يمكن أن تجد ما تبحث عنه. ربما البحث يمكن أن تساعد."
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:30
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: template-parts/content.php:25
+msgid "Featured"
+msgstr "متميز"

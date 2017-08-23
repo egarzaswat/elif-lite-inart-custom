@@ -1,0 +1,800 @@
+# Copyright (C) 2016 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elif lite \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-10 22:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:59
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:63
+msgid "Name"
+msgstr ""
+
+#: comments.php:64
+msgid "Email"
+msgstr ""
+
+#: comments.php:65
+msgid "Website"
+msgstr ""
+
+#: full-width.php:30 template-parts/content-page.php:28
+#: template-parts/content-single.php:41
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:33
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:80
+msgid "Theme's main sidebar."
+msgstr ""
+
+#: functions.php:262
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:270
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:331
+msgid "You may also like"
+msgstr ""
+
+#: functions.php:390 functions.php:432
+msgid "Author"
+msgstr ""
+
+#: functions.php:401
+msgid "View Posts"
+msgstr ""
+
+#: functions.php:425
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:437
+msgid "Reply"
+msgstr ""
+
+#: functions.php:441
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:48 header.php:78
+msgid "Menu"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search &#8230;"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: functions/commons.php:22
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: functions/commons.php:236
+msgid "Older Posts"
+msgstr ""
+
+#: functions/commons.php:239
+msgid "Newer Posts"
+msgstr ""
+
+#: functions/commons.php:246
+msgid "&#8249; Previous"
+msgstr ""
+
+#: functions/commons.php:247
+msgid "Next &#8250;"
+msgstr ""
+
+#: functions/commons.php:267
+msgid "Add Menu"
+msgstr ""
+
+#: functions/commons.php:269
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr ""
+
+#: functions/defaults.php:30
+msgid "Continue Reading"
+msgstr ""
+
+#: functions/defaults.php:63
+msgid ""
+"Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+msgstr ""
+
+#: functions/defaults.php:64
+msgid "Designed by <a href=\"http://themient.com\">Themient</a>"
+msgstr ""
+
+#: functions/widget-popularposts.php:17
+msgid "Themient: Popular Posts"
+msgstr ""
+
+#: functions/widget-popularposts.php:18
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: functions/widget-popularposts.php:34
+msgid "Popular Posts"
+msgstr ""
+
+#: functions/widget-popularposts.php:43 functions/widget-recentposts.php:38
+#: functions/widget-socialicons.php:269
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-popularposts.php:48
+msgid "Popularity limit (days), 0 for No-limit"
+msgstr ""
+
+#: functions/widget-popularposts.php:54 functions/widget-recentposts.php:43
+msgid "Number of Posts to show"
+msgstr ""
+
+#: functions/widget-popularposts.php:61 functions/widget-recentposts.php:50
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-popularposts.php:68 functions/widget-recentposts.php:57
+msgid "Show post date"
+msgstr ""
+
+#: functions/widget-popularposts.php:75 functions/widget-recentposts.php:64
+msgid "Show comments number"
+msgstr ""
+
+#: functions/widget-popularposts.php:80 functions/widget-recentposts.php:69
+msgid "Display Type"
+msgstr ""
+
+#: functions/widget-popularposts.php:82 functions/widget-recentposts.php:71
+msgid "Horizontal"
+msgstr ""
+
+#: functions/widget-popularposts.php:83 functions/widget-recentposts.php:72
+msgid "Vertical"
+msgstr ""
+
+#: functions/widget-recentposts.php:17
+msgid "Themient: Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:18
+msgid "Display the most recent posts from all categories."
+msgstr ""
+
+#: functions/widget-recentposts.php:30 functions/widget-recentposts.php:101
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget-socialicons.php:75
+msgid "Facebook URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:79
+msgid "Twitter URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:83
+msgid "Google+ URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:87
+msgid "YouTube URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:91
+msgid "RSS URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:95
+msgid "Pinterest URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:99
+msgid "Linkedin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:103
+msgid "Email URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:107
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:111
+msgid "Reddit URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:115
+msgid "Tumblr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:119
+msgid "Instagram URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:123
+msgid "Vimeo URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:127
+msgid "FourSquare URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:131
+msgid "Soundcloud URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:135
+msgid "GitHub URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:139
+msgid "Flickr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:143
+msgid "Skype URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:148
+msgid "Behance URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:152
+msgid "Dribbble URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:156
+msgid "Dropbox URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:160
+msgid "Amazon URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:164
+msgid "Apple URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:168
+msgid "Snapchat URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:172
+msgid "Bitbucket URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:176
+msgid "Stack Overflow URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:180
+msgid "Stack Exchange URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:184
+msgid "Slack URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:188
+msgid "CodePen URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:192
+msgid "Digg URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:196
+msgid "Deviantart URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:200
+msgid "PayPal URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:204
+msgid "Bitcoin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:208
+msgid "Odnoklassniki URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:212
+msgid "Vk URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:216
+msgid "Whatsapp URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:220
+msgid "Weixin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:224
+msgid "Vine URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:228
+msgid "Weibo URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:232
+msgid "Yelp URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:236
+msgid "lastFM URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:240
+msgid "Steam URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:244
+msgid "Twitch URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:251
+msgid "Show social icons."
+msgstr ""
+
+#: functions/widget-socialicons.php:259
+msgid "Themient: Social Icons"
+msgstr ""
+
+#: functions/widget-socialicons.php:271
+msgid "Open links in a new tab?"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:34
+msgid "On"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:35
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:108
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:109
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:30
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "Retina Logo ( 2x bigger )"
+msgstr ""
+
+#: inc/customizer/customizer.php:33
+msgid "This logo should be 2X bigger than the default logo."
+msgstr ""
+
+#: inc/customizer/customizer.php:36
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:36
+msgid "Set logo image maximum width (in Pixels)."
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Show Site Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:42
+msgid "Header Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:45
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+msgid "Header background overlay, from 0 to 100."
+msgstr ""
+
+#: inc/customizer/customizer.php:54 inc/customizer/customizer.php:234
+msgid "Advanced Background Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:57 inc/customizer/customizer.php:237
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:70 inc/customizer/customizer.php:250
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:71 inc/customizer/customizer.php:251
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/customizer.php:72 inc/customizer/customizer.php:252
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer.php:73 inc/customizer/customizer.php:253
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer.php:74 inc/customizer/customizer.php:254
+msgid "Set this option to \"Cover\" to enable background Parallax effect."
+msgstr ""
+
+#: inc/customizer/customizer.php:77 inc/customizer/customizer.php:257
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:82 inc/customizer/customizer.php:262
+msgid "Specifies if/how a background image will be repeated."
+msgstr ""
+
+#: inc/customizer/customizer.php:85 inc/customizer/customizer.php:265
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer.php:86 inc/customizer/customizer.php:266
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:87 inc/customizer/customizer.php:267
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer.php:88 inc/customizer/customizer.php:268
+msgid "Local"
+msgstr ""
+
+#: inc/customizer/customizer.php:89 inc/customizer/customizer.php:269
+msgid ""
+"Specifies whether the background images are fixed or scrolls with the rest "
+"of the page."
+msgstr ""
+
+#: inc/customizer/customizer.php:92
+msgid "Off-canvas Menu Side"
+msgstr ""
+
+#: inc/customizer/customizer.php:93
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "Blog & Archives"
+msgstr ""
+
+#: inc/customizer/customizer.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:104
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/customizer.php:104
+msgid ""
+"Set excerpt length (in Words) for Homepage & archive pages. Min is 1 word, "
+"max is 500 words."
+msgstr ""
+
+#: inc/customizer/customizer.php:107
+msgid "ReadMore Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Navigation Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:111 inc/customizer/customizer.php:151
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "Numbered"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "Article Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:119
+msgid "Next/Prev Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:119
+msgid "Show or hide next post and previous post links on single post page."
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:122
+msgid "Show or hide related posts on single post page."
+msgstr ""
+
+#: inc/customizer/customizer.php:125
+msgid "Related Posts Number"
+msgstr ""
+
+#: inc/customizer/customizer.php:128
+msgid "Related Posts Query"
+msgstr ""
+
+#: inc/customizer/customizer.php:129
+msgid "By Tags"
+msgstr ""
+
+#: inc/customizer/customizer.php:130
+msgid "By Categories"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Query related posts either by tags or categories."
+msgstr ""
+
+#: inc/customizer/customizer.php:134
+msgid "Related Posts Meta"
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Related Posts Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer.php:140
+msgid "Author Box"
+msgstr ""
+
+#: inc/customizer/customizer.php:143
+msgid "Design & Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:146
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:149
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:150
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:162
+msgid "Box Border Style"
+msgstr ""
+
+#: inc/customizer/customizer.php:163
+msgid "None"
+msgstr ""
+
+#: inc/customizer/customizer.php:164
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer/customizer.php:165
+msgid "Shadow"
+msgstr ""
+
+#: inc/customizer/customizer.php:169
+msgid "Animation Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:170
+msgid "Enabled"
+msgstr ""
+
+#: inc/customizer/customizer.php:171
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/customizer.php:172
+msgid "Desktop Only"
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+msgid "Background Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:178
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:179
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer/customizer.php:180
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:187
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer/customizer.php:231
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:272
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:275
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:278
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:278
+msgid "Show or hide social links in footer."
+msgstr ""
+
+#: inc/customizer/customizer.php:281
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:287
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:290
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:293
+msgid "Copyright Text"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:31 template-parts/content.php:35
+msgid "by"
+msgstr ""
+
+#: template-parts/content-single.php:32 template-parts/content.php:36
+msgid "comments"
+msgstr ""
+
+#: template-parts/content-single.php:32 template-parts/content.php:36
+msgid "comment"
+msgstr ""
+
+#: template-parts/content.php:24
+msgid "Featured Post"
+msgstr ""
+
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr ""

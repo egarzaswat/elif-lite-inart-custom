@@ -1,0 +1,209 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+    text-align: right;
+}
+ol, ul {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+/* Menus */
+.main-navigation .menu > .menu-item-has-children > a:before {
+    font-family: "FontAwesome";
+    content: "\f0d7";
+    position: relative;
+    margin-left: 0;
+    margin-right: 5px;
+    vertical-align: middle;
+    font-size: 12px;
+}
+.main-navigation .menu > .menu-item-has-children > a:after {
+    display: none;
+}
+.main-navigation .sub-menu {
+    text-align: right;
+}
+.main-navigation .sub-menu .menu-item-has-children > a:after {
+    left: 15px;
+    right: initial;
+    content: "\f0d9";
+}
+.main-navigation .sub-menu .sub-menu {
+    right: 100%;
+    left: initial;
+}
+.mobile-menu-wrap .menu > li > ul > li > a {
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.mobile-menu-wrap .menu > li > ul > li > ul > li > a {
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.mobile-menu-wrap .menu a {
+    padding-left: 40px;
+    padding-right: 16px;
+}
+.expander {
+    left: 6px;
+    right: auto;
+}
+
+/* Content & Widgets */
+.search-form button {
+    left: 0;
+    right: initial;
+}
+.sb-slidebar .search-form button {
+    left: 8px;
+}
+.widget-posts-wrap .post-meta > span {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.widget-posts-wrap .post-meta > span .fa {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.widget-posts-wrap .vertical-container .post-img {
+    padding-left: 8px;
+    padding-right: 0;
+}
+.widget-posts-wrap .vertical-container .post-img, .widget-posts-wrap .vertical-container .post-data {
+    float: right;
+}
+.meta-info .post-date:after, .meta-info .post-author:after, .single-header .cats:after, .single-header .cats li:after {
+    margin-right: 5px;
+    margin-left: 0;
+}
+.single-header .cats, .single-header .meta-info {
+    text-align: right;
+}
+.post-navigation .alignleft:after {
+    margin-right: 8px;
+    content: "\f177";
+}
+.post-navigation .alignleft:before {
+    display: none;
+}
+.post-navigation .alignright:before {
+    margin-left: 8px;
+    content: "\f178";
+}
+.post-navigation .alignright:after {
+    display: none;
+}
+.related-posts .post-meta > span {
+    margin-right: 0;
+    margin-left: 12px;
+}
+.related-posts .post-meta > span .fa {
+    margin-right: 0;
+    margin-left: 7px;
+}
+.related-item .post-excerpt {
+    text-align: right;
+}
+.related-posts .post-excerpt p {
+    text-align: right;
+}
+.related-posts .post-excerpt a {
+    padding-left: 20px;
+    padding-right: 0;
+}
+.related-posts .post-excerpt a:after {
+    left: 0;
+    right: initial;
+}
+.related-posts .post-excerpt a:after {
+    left: 0;
+    right: initial;
+    content: "\f177";
+}
+.next-prev-post .prev-post {
+    text-align: right;
+    float: right;
+}
+.next-prev-post .next-post {
+    text-align: left;
+}
+.next-prev-post .prev-post .txt:before {
+    content: "\f101";
+    font-family: "FontAwesome";
+    margin: 0;
+    margin-left: 5px;
+    margin-right: 0;
+    font-size: 20px;
+    line-height: 22px;
+}
+.next-prev-post .next-post .txt:after {
+    content: "\f100";
+    font-family: "FontAwesome";
+    margin: 0;
+    margin-left: 0;
+    margin-right: 5px;
+    font-size: 20px;
+    line-height: 22px;
+}
+.cats li:before {
+    font-family: FontAwesome;
+    content: "\f10c";
+    font-size: 5px;
+    line-height: 16px;
+    vertical-align: middle;
+    padding: 0 8px;
+    padding-left: 4px;
+    color: #b8b6b7;
+}
+.cats li:last-child:before, .cats li:after {
+    display: none;
+}
+blockquote {
+    padding-right: 45px;
+    padding-left: 0;
+}
+blockquote:before {
+    right: 5px;
+    left: auto;
+}
+
+/* Comments */
+.comment-header {
+    right: 0;
+    left: initial;
+}
+.comment-body {
+    padding-right: 100px;
+    padding-left: 0;
+}
+.comment-box .reply {
+    left: 0;
+    right: initial;
+}
+.comment-box .comment-reply-link {
+    left: 0;
+    right: auto;
+}
+.bypostauthor .is-author {
+    margin-right: 6px;
+    margin-left: 0;
+}
+
+/* Layouts */
+.layout-simple .site-header .mobile-menu-wrap {
+    text-align: right;
+}
+.layout-simple .widget-area {
+    text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
